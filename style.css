@@ -8,16 +8,23 @@ body {
     background-color: skyblue;
 }
 
-#logo {
+#logo, .food {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-h2 {
+h2, h3 {
     text-align: center;
     font-size: 26px;
     font-weight: 300;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 500;
     margin: 0 auto;
 }
 
@@ -25,7 +32,7 @@ p {
     text-align: center;
 }
 
-ul {
+ul, ol {
     display: table;
     margin: 0 auto;
 }
@@ -35,4 +42,11 @@ div {
     border-radius: 25px;
     margin-left: 30%;
     margin-right: 30%;
+}
+
+.home {
+    text-align: center;
+    font-size: 26px;
+    font-weight: 300;
+    border:none;
 }
