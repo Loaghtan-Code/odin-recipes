@@ -44,6 +44,12 @@ div {
     margin-right: 30%;
 }
 
+
+.guide {
+    display: inline-block;
+    padding: 0 10px;
+}
+
 .home {
     text-align: center;
     font-size: 26px;
