@@ -1,3 +1,90 @@
     body {
-        background-color: #fcf3cf;
+        background-color: #34495e;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 26px;
+        color: #1c2833;
+    }
+
+    /* div {
+        border: solid;
+    } */
+
+    .header a {
+        color: #b9770e;
+        text-decoration: none;
+        font-size: 56px;
+        padding: 10px;
+        display: flex;
+        justify-content: flex-end;
+
+    }
+    
+    .header {
+        padding-bottom: 250px;
+    }
+
+    .main {
+        background-color: beige;
+        border: solid;
+        border-style: solid;
+        border-radius: 250px;
+        border-color: beige;
+    }
+
+    .logo {
+        height: 800px;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        padding: 100px;
+        flex-shrink: 1;
+    }
+
+    .recipes {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+        flex: 1;
+    }
+
+    .recipes a {
+        color:#b9770e;
+        text-decoration: none;
+        font-size: 56px;
+        font-weight: 600;
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+    .recipes img {
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        padding: 25px 76px 0px 76px;
+        height: 550px;
+        width: 550px;
+    }
+
+    .footer {
+        display: flex;
+        color: #b9770e;
+        text-decoration: none;
+        flex-direction: nowrap;
+        flex-wrap: wrap;
+        font-size: 56px;
+        justify-content: space-between;
+        padding-top: 250px;
+    }
+
+    .footer a {
+        color: #b9770e;
+        text-decoration: none;
+        font-size: 56px;
+        font-weight: 600;
+        padding: 10px;
     }
