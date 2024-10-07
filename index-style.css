@@ -12,27 +12,28 @@
     .header a {
         color: #b9770e;
         text-decoration: none;
-        font-size: 56px;
+        font-size: 22px;
         padding: 10px;
         display: flex;
         justify-content: flex-end;
+        font-weight: 300;
 
     }
     
     .header {
-        padding-bottom: 250px;
+        padding-bottom: 200px;
     }
 
     .main {
         background-color: beige;
         border: solid;
         border-style: solid;
-        border-radius: 250px;
+        border-radius: 100px;
         border-color: beige;
     }
 
     .logo {
-        height: 800px;
+        height: 400px;
         display: flex;
         justify-content: center;
         align-content: center;
@@ -52,8 +53,8 @@
     .recipes a {
         color:#b9770e;
         text-decoration: none;
-        font-size: 56px;
-        font-weight: 600;
+        font-size: 18px;
+        font-weight: 200;
         padding: 10px;
         display: flex;
         flex-direction: column;
@@ -66,8 +67,8 @@
         justify-content: center;
         align-content: center;
         padding: 25px 76px 0px 76px;
-        height: 550px;
-        width: 550px;
+        height: 150px;
+        width: 150px;
     }
 
     .footer {
@@ -76,15 +77,14 @@
         text-decoration: none;
         flex-direction: nowrap;
         flex-wrap: wrap;
-        font-size: 56px;
         justify-content: space-between;
-        padding-top: 250px;
+        padding-top: 200px;
     }
 
     .footer a {
         color: #b9770e;
         text-decoration: none;
-        font-size: 56px;
-        font-weight: 600;
+        font-size: 22px;
+        font-weight: 300;
         padding: 10px;
     }
