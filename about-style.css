@@ -31,8 +31,8 @@ body {
     font-size: 22px;
     font-weight: 300;
     padding: 10px;
-    padding-right: 10%;
-    padding-left: 10%;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .logo {
@@ -85,6 +85,6 @@ body {
     font-size: 22px;
     font-weight: 300;
     padding: 10px;
-    padding-right: 10%;
-    padding-left: 10%;
+    padding-left: 20px;
+    padding-right: 20px;
 }
