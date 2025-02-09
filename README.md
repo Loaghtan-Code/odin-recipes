@@ -9,4 +9,4 @@ Updated since creating the basic website to add some basic css and to ensure thi
 
 https://www.theodinproject.com/about
 
-![Uploading image.png…]()
+![Capture](https://github.com/user-attachments/assets/c703445a-8903-4388-987f-3b8ec05ea227)
